@@ -5,6 +5,10 @@
 ### Projects
 
 - Code 1
+
+   stuff.
+   more stuff.
+
 - Code 2
 - Code 3
 
@@ -16,7 +20,7 @@
 - Code 2
 - Code 3
 
-## Section 4: Fundamentals
+## Section 4
 
 ### Projects
 
