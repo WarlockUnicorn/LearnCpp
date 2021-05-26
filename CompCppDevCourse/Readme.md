@@ -1,5 +1,20 @@
 # The Complete C++ Developer Course
 
+## test
+
+### Structure
+
+The following structure will be followed throughout:
+
+- Makefile
+- /src
+
+### Code
+
+Simple "Hello world" program.
+
+- src/main.cpp
+
 ## Section 2: Fundamentals
 
 ### Projects
