@@ -4,14 +4,21 @@
 
 ### Projects
 
-- **Code 1**
+- **Average of Three**
 
    stuff.  
 
-- **Code 2**
-- **Code 3**
+- **MadLibs Clone**
 
-## Section 3
+## Section 3: Control Statements
+
+### Projects
+
+- **Jam of the Month Club**
+- **Odds and Evens**
+- **Guess the Number**
+
+## Section 4: Arrays and Vectors
 
 ### Projects
 
@@ -19,15 +26,7 @@
 - **Code 2**
 - **Code 3**
 
-## Section 4
-
-### Projects
-
-- **Code 1**
-- **Code 2**
-- **Code 3**
-
-## Section 4
+## Section 5: Functions
 
 ### Projects
 
