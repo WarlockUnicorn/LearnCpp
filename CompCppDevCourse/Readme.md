@@ -11,9 +11,11 @@ The following structure will be followed throughout:
 
 ### Code
 
-Simple "Hello world" program.
+- Makefile
+   Based on **Intel OneAPI**. May easily be changed to suit, *e.g.* **GNU**.
 
 - src/main.cpp
+   Simple "Hello world" program.
 
 ## Section 2: Fundamentals
 
